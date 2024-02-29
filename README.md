@@ -19,11 +19,10 @@ Nexus is a user-friendly conversational AI application that empowers users to en
 
 # Installation
 
-1. Go on ```Setup``` Directory of this Repository
-2. Click on ```Nexus_setup.exe```
-3. Click on ```Raw``` button which is located on middle right of the page, **(Nexus is now started downloading)**, wait for its download, if Github asks for downloading multiple files then click on allow button
-4. May be 2 files are downloaded ```Nexus_setup.exe```, ```Nexus_setup(1).exe```
-5. Run ```Nexus_setup.exe```, and and simply download it
+1. Click on ```Nexus_setup.exe```
+2. Click on ```Raw``` button which is located on middle right of the page, **(Nexus is now started downloading)**, wait for its download, if Github asks for downloading multiple files then click on allow button
+3. May be 2 files are downloaded ```Nexus_setup.exe```, ```Nexus_setup(1).exe```
+4. Run ```Nexus_setup.exe```, and and simply download it
 
 # Chat Interaction
 
