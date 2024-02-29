@@ -3,9 +3,6 @@
 ![Programming Language](https://img.shields.io/badge/Programming_Language-Python-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-
-# Project Overview
-
 Nexus is a user-friendly conversational AI application that empowers users to engage in natural language interactions and process information from uploaded files. It leverages the capabilities of the GoogleGenerativeAI model to deliver intelligent and informative responses.
 
 # Features
