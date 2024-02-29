@@ -1,15 +1,14 @@
-# Nexus: A Conversational AI with File Upload Functionality
+# Nexus: A Conversational AI tool For Asking questions from a file
 
 ![Programming Language](https://img.shields.io/badge/Programming_Language-Python-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-Nexus is a user-friendly conversational AI application that empowers users to engage in natural language interactions and process information from uploaded files. It leverages the capabilities of the GoogleGenerativeAI model to deliver intelligent and informative responses.
+Nexus is a user-friendly conversational AI application that empowers users Ask questions from Nexus about uploaded file. It leverages the capabilities of the GoogleGenerativeAI model to deliver intelligent and informative responses.
 
 # Features
 
-- Conversational interface: Interact with Nexus through a text-based chat interface, asking questions and receiving comprehensive answers.
+- Conversational interface: Interact with Nexus through a text-based chat interface, asking questions about given file and receiving comprehensive answers.
 - File upload and processing: Upload text, CSV, or PDF documents to provide additional context or information for Nexus to analyze and incorporate into its responses.
-- Customizable theme: The GUI offers a dark theme for a visually appealing experience.
 
 # Installation
 
