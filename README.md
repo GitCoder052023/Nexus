@@ -3,9 +3,6 @@
 ![Programming Language](https://img.shields.io/badge/Programming_Language-Python-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-![My Icon](Logo.png)
-
-
 
 # Project Overview
 
