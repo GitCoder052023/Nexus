@@ -1,5 +1,14 @@
 # Nexus: A Conversational AI with File Upload Functionality
 
+## Table of Contents
+1. [Project Overview](https://github.com/GitCoder052023/Nexus?tab=readme-ov-file#project-overview)
+2. [Features](https://github.com/GitCoder052023/Nexus?tab=readme-ov-file#features)
+3. [Requirements](https://github.com/GitCoder052023/Nexus?tab=readme-ov-file#requirements)
+4. [Installation](https://github.com/GitCoder052023/Nexus?tab=readme-ov-file#installation)
+5. [Usage](https://github.com/GitCoder052023/Nexus?tab=readme-ov-file#usage)
+    - [Running the Application](https://github.com/GitCoder052023/Nexus?tab=readme-ov-file#running-the-application)
+    - [Chat Interaction](https://github.com/GitCoder052023/Nexus?tab=readme-ov-file#chat-interaction)
+
 # Project Overview
 
 Nexus is a user-friendly conversational AI application that empowers users to engage in natural language interactions and process information from uploaded files. It leverages the capabilities of the GoogleGenerativeAI model to deliver intelligent and informative responses.
