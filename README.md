@@ -12,7 +12,7 @@ Nexus is a user-friendly conversational AI application that empowers users Ask q
 
 # Installation
 
-1. Go on Bundle directory of this repo and then click on```Nexus_setup.exe```
+1. Go on ```bundle``` directory of this repo and then click on```Nexus_setup.exe```
 2. Click on ```Raw``` button which is located on middle right of the page, **(Nexus is now started downloading)**, wait for its download, if Github asks for downloading multiple files then click on allow button
 3. May be 2 files are downloaded ```Nexus_setup.exe```, ```Nexus_setup(1).exe```
 4. Run ```Nexus_setup.exe```, and and simply download it
