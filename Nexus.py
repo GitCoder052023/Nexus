@@ -8,7 +8,7 @@ import warnings
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.messages import HumanMessage, SystemMessage
 
-key = "AIzaSyBoxqElIKXzz7IxkiEllxyDQlYbasCkbTc"
+key = "REPLACE WITH YOUR OWN API KEY"
 model = ChatGoogleGenerativeAI(model="gemini-pro", convert_system_message_to_human=True,
                                google_api_key=key, temperature=0.5)
 
